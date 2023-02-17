@@ -23,6 +23,11 @@ The dataset consists of following files:
 
 All plots and results reported in the paper along with a few additional results are also available for the interested readers.
 
+## Subjective Test Lab Setup
+
+![alt text](https://github.com/NabajeetBarman/Multiscreen-Dataset/blob/main/subjective_test_lab_setup.jpg?raw=true)
+
+
 ## Citation
 
 We are making BC-KU Multi-Screen Dataset available to the research community free of charge. If you use this database in your research, we kindly ask that you to cite our papers listed below:
