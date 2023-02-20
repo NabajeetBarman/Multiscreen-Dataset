@@ -32,7 +32,7 @@ All plots and results reported in the paper along with a few additional results 
 
 We are making BC-KU Multi-Screen Dataset available to the research community free of charge. If you use this database in your research, we kindly ask that you to cite our papers listed below:
 
-Nabajeet Barman, Yuriy Reznik and Maria G Martini. 2023. A Subjective Dataset for Multi-Screen Video Streaming Applications}. In Proceedings of the 15th International Conference on Quality of Multimedia Experience (QoMEX'23). IEEE, submitted.
+`Nabajeet Barman, Yuriy Reznik and Maria G Martini. 2023. A Subjective Dataset for Multi-Screen Video Streaming Applications. In Proceedings of the 15th International Conference on Quality of Multimedia Experience (QoMEX'23). IEEE, submitted.`
 
 ## Authors
 
