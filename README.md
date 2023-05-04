@@ -36,7 +36,7 @@ We are making BC-KU Multi-Screen Dataset available to the research community fre
 
 ## Authors
 
-- Nabajeet Barman, Brightcove UK Ltd, London, United Kingdom (nbarman@brightcove.com, nabajeetbarman4@gmail.com)
+- Nabajeet Barman, Brightcove UK Ltd, London, United Kingdom (n.barman@ieee.org, nabajeetbarman4@gmail.com)
 - Yuriy Reznik, Brightcove Inc, Seattle, USA  (yreznik@brightcove.com)
 - Maria Martini, Kingston University, London, United Kingdom (m.martini@kingston.ac.uk)
 
