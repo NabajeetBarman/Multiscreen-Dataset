@@ -4,10 +4,12 @@
 
 Welcome to Brightcove-Kingston University Multi-Screen Dataset. The dataset provides subjective ratings obtained for various HEVC encoded video sequences of multiple resolution-bitrate pairs viewed on three different devices: Mobile, Tablet and TV.
 
+The pre-print of the paper is available [here](https://drive.google.com/file/d/1ZBtdLEqT1rmcbiQEHT6nQkZE5RTX0uQU/view?usp=sharing)
+
 ## Abstract
 In modern-era video streaming systems, videos are streamed and displayed on a wide range of devices. Such devices vary from large-screen UHD and HDTVs to medium-screen Desktop PCs and Laptops to smaller-screen devices such as mobile phones and tablets. It is well known that a video is perceived differently when displayed on different devices. The viewing experience for a particular video on smaller screen devices such as smartphones and tablets, which have high pixel density, will be different with respect to the case where the same video is played on a large screen device such as a TV or PC monitor. Being able to model such relative differences in perception effectively can help in the design of better quality metrics and in the design of more efficient and optimized encoding profiles, leading to lower storage, encoding, and transmission costs.
 
-However, to the best of our knowledge, public datasets providing subjective scores for the same content when viewed on multiple devices with different screen sizes do not exist, thus limiting a proper evaluation of the existing quality metrics for such multi-screen video streaming applications. This paper addresses this research gap by presenting a new, open-source dataset consisting of subjective ratings for various encoded video sequences of different resolutions and bitrates (quality) when viewed on three devices of varying screen sizes: TV, Tablet, and Mobile. Along with the subjective scores, an evaluation of some of the most famous and commonly used open-source objective quality metrics is also presented. It is observed that the performance of the metrics varies a lot across different device types, with the recently standardized ITU-T P.1204.3 Model, on average, outperforming their full-reference counterparts. The dataset consisting of the videos, along with their subjective and objective scores, is available freely on Github
+However, to the best of our knowledge, public datasets providing subjective scores for the same content when viewed on multiple devices with different screen sizes do not exist, thus limiting a proper evaluation of the existing quality metrics for such multi-screen video streaming applications. This paper addresses this research gap by presenting a new, open-source dataset consisting of subjective ratings for various encoded video sequences of different resolutions and bitrates (quality) when viewed on three devices of varying screen sizes: TV, Tablet, and Mobile. Along with the subjective scores, an evaluation of some of the most famous and commonly used open-source objective quality metrics is also presented. It is observed that the performance of the metrics varies a lot across different device types, with the recently standardized ITU-T P.1204.3 Model, on average, outperforming their full-reference counterparts.
 
 ## Dataset Description
 
@@ -21,18 +23,19 @@ The dataset consists of following files:
 
 3. `Results.xlsx`: An Excel file containing the Mean Opinion Scores for the test sequences for all three videos. In addition, objective metric scores and their correlation with MOS in terms of PLCC and SROCC scores is also provided. The results file also contain information about the test sequences resolution and bitrates. 
 
-All plots and results reported in the paper along with a few additional results are also available for the interested readers.
+Note: The repository will soon be updated to include results considering additional quality metrics, individual subjective scores for each device, demographics information and other related results.
+
+`Additional information about the dataset is made available in the datasheet` [here](https://docs.google.com/spreadsheets/d/1GfvYSQC1zo14JGOfp9S-rkFQLnIVSYvp9NeTVXJhnzM/edit?usp=sharing). `To know more about the datasheet work, please check our` [this](https://github.com/NabajeetBarman/datasheet-for-qoe-datasets) `GitHub repository.`
 
 ## Subjective Test Lab Setup
 
-![alt text](https://github.com/NabajeetBarman/Multiscreen-Dataset/blob/main/subjective_test_lab_setup.jpg?raw=true)
-
+![image](https://github.com/NabajeetBarman/Multiscreen-Dataset/assets/48479111/65e0e4fe-742b-4e02-a0ae-be484054ee9d)
 
 ## Citation
 
 We are making BC-KU Multi-Screen Dataset available to the research community free of charge. If you use this database in your research, we kindly ask that you to cite our papers listed below:
 
-`Nabajeet Barman, Yuriy Reznik and Maria G Martini. 2023. A Subjective Dataset for Multi-Screen Video Streaming Applications. In Proceedings of the 15th International Conference on Quality of Multimedia Experience (QoMEX'23). IEEE, submitted.`
+`Nabajeet Barman, Yuriy Reznik and Maria G Martini. 2023. A Subjective Dataset for Multi-Screen Video Streaming Applications. In Proceedings of the 15th International Conference on Quality of Multimedia Experience (QoMEX'23). IEEE.` 
 
 ## Authors
 
