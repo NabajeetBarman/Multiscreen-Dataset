@@ -4,7 +4,7 @@
 
 Welcome to Brightcove-Kingston University Multi-Screen Dataset. The dataset provides subjective ratings obtained for various HEVC encoded video sequences of multiple resolution-bitrate pairs viewed on three different devices: Mobile, Tablet and TV.
 
-The pre-print of the paper is available [here](https://drive.google.com/file/d/1ZBtdLEqT1rmcbiQEHT6nQkZE5RTX0uQU/view?usp=sharing)
+The pre-print of the paper is available on ArXiv [here](https://arxiv.org/abs/2305.03138)
 
 ## Abstract
 In modern-era video streaming systems, videos are streamed and displayed on a wide range of devices. Such devices vary from large-screen UHD and HDTVs to medium-screen Desktop PCs and Laptops to smaller-screen devices such as mobile phones and tablets. It is well known that a video is perceived differently when displayed on different devices. The viewing experience for a particular video on smaller screen devices such as smartphones and tablets, which have high pixel density, will be different with respect to the case where the same video is played on a large screen device such as a TV or PC monitor. Being able to model such relative differences in perception effectively can help in the design of better quality metrics and in the design of more efficient and optimized encoding profiles, leading to lower storage, encoding, and transmission costs.
